@@ -21,6 +21,7 @@
 - defensive + offensive programming - https://programmingduck.com/articles/defensive-programming
 - why we do different types of tests + PRs - https://buttondown.email/hillelwayne/archive/defense-in-depth-is-actually-a-good-thing/ 
 - rule of three - https://blog.codinghorror.com/rule-of-three/
+- one that got linked a lot at one of my workplaces - internal + external quality - is high quality software worth the cost? - https://martinfowler.com/articles/is-quality-worth-cost.html
 
 ### code reviews
 - on code reviews - https://medium.com/@9len/on-code-review-16ea85f7c585 
