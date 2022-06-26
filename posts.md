@@ -32,6 +32,7 @@
 ### TDD
 - design and reality - https://verraes.net/2021/09/design-and-reality/
 - models and metaphors - https://verraes.net/2021/12/models-and-metaphors/
+- TDD in the front end - https://startup-cto.net/tdd-in-a-react-frontend/
 
 ## architecture + system design
 
@@ -50,7 +51,7 @@
 - stop using booleans to control state transitions - https://kentcdodds.com/blog/stop-using-isloading-booleans
 - similar to above - https://dev.to/mattpocockuk/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n
 - react testing library - https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
-
+- presentational + container components - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0 
 # UI stuff
 as developers we often forget about users and their preception of our system :)
 - mental models - https://www.nngroup.com/articles/mental-models/ 
