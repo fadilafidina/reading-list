@@ -20,6 +20,7 @@
 - joyful programming - https://dannorth.net/2022/02/10/cupid-for-joyful-coding/ 
 - defensive + offensive programming - https://programmingduck.com/articles/defensive-programming
 - why we do different types of tests + PRs - https://buttondown.email/hillelwayne/archive/defense-in-depth-is-actually-a-good-thing/ 
+- rule of three - https://blog.codinghorror.com/rule-of-three/
 
 ### code reviews
 - on code reviews - https://medium.com/@9len/on-code-review-16ea85f7c585 
